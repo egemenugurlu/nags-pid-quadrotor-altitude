@@ -1,0 +1,8 @@
+slprj/
+*.slxc
+*.asv
+__pycache__/
+baseline_pid.mat
+matlab.mat
+.vscode/
+FinalVer/
